@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "843785456064",
+    "project_id": "fala-comigo-831e8",
+    "storage_bucket": "fala-comigo-831e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843785456064:android:81a0350d1060a1fa9f6025",
+        "android_client_info": {
+          "package_name": "com.mycompany.falacomigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843785456064-iecdl35lmdbhk39k0lil5qj79jpsshv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.falacomigo",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "843785456064-u6bk5kbc6b3hjg0hul2i1o7odd3iue64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmGDb4fGp05x3bUtqO-TNEGfu1i2uM7pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843785456064-u6bk5kbc6b3hjg0hul2i1o7odd3iue64.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843785456064-d6mro6ki2qg7drfttnbtn2qp7k13qfoi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.falacomigo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
